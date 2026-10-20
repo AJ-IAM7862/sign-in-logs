@@ -11,8 +11,7 @@ Entra ID.<br />
 - Windows 11
 <h2>Sign-In Logs </h2>
 <p>
-<img width="1916" height="886" alt="image"
-src="https://github.com/user-attachments/assets/bae0b986-2d53-474f-9a86-c07b9b545a72" />
+<img width="959" height="469" alt="Sign-in Logs" src="https://github.com/user-attachments/assets/d986c652-59f2-41f8-a15e-ac7819d6b2f5" />
 </p>
 <p>
 Sign-In Logs of ourselves to interpret our own sign-in activity.
